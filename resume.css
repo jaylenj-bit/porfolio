@@ -1,0 +1,92 @@
+ body {
+            font-family: 'Arial', sans-serif;
+            color: #333;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            font-family: times-roman;
+            color: #2C3E50;
+            margin-bottom: 10px;
+        }
+
+        h3 {
+            color: #16A085;
+            margin-bottom: 5px;
+        }
+
+        p {
+            margin: 5px 0;
+        }
+
+        .section-title {
+            font-size: 1.2em;
+            margin-top: 20px;
+            border-bottom: 2px solid #16A085;
+            padding-bottom: 5px;
+        }
+
+        .contact-info,
+        .education-info,
+        .experience-info,
+        .skills-info {
+            margin-bottom: 20px;
+        }
+
+        .contact-info p,
+        .education-info p,
+        .experience-info p,
+        .skills-info p {
+            margin-left: 10px;
+        }
+
+        .contact-info {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .skills-info ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        .skills-info li {
+            display: inline;
+            alignment: center;
+            margin-right: 10px;
+            color: black;
+            font-size: 15px;
+        }
+
+        .experience-info .job-title {
+            font-weight: bold;
+        }
+
+        .experience-info .dates {
+            font-style: italic;
+            color: #7F8C8D;
+        }
+
+        .education-info p,
+        .experience-info p {
+            margin-left: 10px;
+        }
+
+        .footer {
+            text-align: center;
+            font-size: 0.9em;
+            color: #7F8C8D;
+            margin-top: 30px;
+        }
