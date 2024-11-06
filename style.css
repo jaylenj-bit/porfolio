@@ -19,12 +19,12 @@ body {
         header p {
             margin: 5px 0;
         }
-        nav {
+        #quote {
             text-align: center;
             margin: 20px 0;
         }
 
-        nav a:hover {
+        #quote :hover {
             text-decoration: underline;
         }
         section {
