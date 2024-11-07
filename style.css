@@ -67,6 +67,6 @@ body {
         }
 
         #milo {
-             width: 150px;
-             border: 1px solid black;
+             border: 2px solid black;
+             top: 200px;
         }
