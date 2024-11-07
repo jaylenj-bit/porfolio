@@ -65,3 +65,7 @@ body {
         footer p {
             margin: 0;
         }
+
+        #milo {
+            object-position: 5px 10%;
+        }
