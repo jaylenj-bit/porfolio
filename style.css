@@ -67,7 +67,7 @@ body {
             margin: 0;
         }
 
-        #milo {
+        .milo {
             item-alignment: center;
             border: 2px solid dark-green;
             margin-bottom: 20px;
