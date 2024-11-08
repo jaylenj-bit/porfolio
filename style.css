@@ -69,6 +69,5 @@ body {
 
         #milo {
              border: 2px solid dark-green;
-             top: 200px;
-             left: 350px;
+            margin-bottom: 20px;
         }
